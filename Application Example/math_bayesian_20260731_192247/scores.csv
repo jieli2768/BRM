@@ -1,0 +1,3 @@
+thread,student,domain_name,domain_value,item_count,raw_score,max_points,true_theta,theta,se,scale_score,scale_score_se,performance_level
+1,1,Overall,Overall,35,7,41,-1.5,-1.419834,0.603724,929,30,
+1,2,Overall,Overall,35,28,41,1.5,1.457815,0.239057,1073,12,
