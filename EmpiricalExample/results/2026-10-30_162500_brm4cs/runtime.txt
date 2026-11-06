@@ -1,0 +1,1 @@
+13.0 ms median POST /cat round trip (calls after the first; 144000 calls), R on Mac-Studio.local -> engine http://172.16.0.37:8080

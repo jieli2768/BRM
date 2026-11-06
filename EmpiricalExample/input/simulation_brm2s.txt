@@ -1,0 +1,9 @@
+# Simulator input for Figure 3: Condition 2 (ML, exposure control 0.30) run through the
+# simulator bundled with OptimalCAT. s_brm2s.csv holds the same 3,600 examinees, in the
+# same order, with the same response to every OP item as the R runs (FT columns 0).
+#
+# Run from the simulator folder, with s_brm2s.csv beside it:
+#   java -jar ocat-simulator-2.4.jar simulation_brm2s.txt
+testID = brm2s
+thread.1 = s_brm2s.csv
+random.seed = 20261030
