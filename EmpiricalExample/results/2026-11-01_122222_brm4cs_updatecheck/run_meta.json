@@ -1,0 +1,48 @@
+{
+  "run_started": "2026-11-01 12:22:22 PST",
+  "testID": "brm4cs",
+  "engine_url": "http://172.16.0.37:8080",
+  "seed": 20261101,
+  "notes": "update check on 2026-10-30_162500_brm4cs: 72 simulees; A ks 1,2,3,5,8,12,17,23,30,35 x2; B ks 5,15,30 x5",
+  "engine_root": {
+    "Optimal CAT Engine": {
+      "Version": "2.4 (April 5, 2026)"
+    },
+    "loaded tests": {
+      "brm2s": {
+        "version": ""
+      },
+      "brm4cs": {
+        "version": ""
+      },
+      "brm4f": {
+        "version": ""
+      },
+      "brm4c": {
+        "version": ""
+      },
+      "brm3s": {
+        "version": ""
+      },
+      "brmlim": {
+        "version": ""
+      },
+      "brm3": {
+        "version": ""
+      },
+      "brm4": {
+        "version": ""
+      },
+      "brm1": {
+        "version": ""
+      },
+      "brm2": {
+        "version": ""
+      }
+    }
+  },
+  "r_version": "R version 4.6.1 (2026-06-24)",
+  "platform": "aarch64-apple-darwin23",
+  "host": "Mac-Studio.local",
+  "packages": ["1.4.9", "2.0.0"]
+}

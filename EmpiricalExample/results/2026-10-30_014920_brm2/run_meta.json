@@ -1,0 +1,42 @@
+{
+  "run_started": "2026-10-30 01:49:20 PDT",
+  "testID": "brm2",
+  "engine_url": "http://172.16.0.37:8080",
+  "seed": 20261030,
+  "notes": "R driver; 3600 simulees; responses responses_seed20261030_n3600_gpcmplus.csv; GPCM sign +1",
+  "engine_root": {
+    "Optimal CAT Engine": {
+      "Version": "2.4 (April 5, 2026)"
+    },
+    "loaded tests": {
+      "brm3s": {
+        "version": ""
+      },
+      "brmlim": {
+        "version": ""
+      },
+      "bmt": {
+        "version": "v1"
+      },
+      "brm3": {
+        "version": ""
+      },
+      "brm4": {
+        "version": ""
+      },
+      "brm1": {
+        "version": ""
+      },
+      "brm2": {
+        "version": ""
+      },
+      "smt": {
+        "version": "v1"
+      }
+    }
+  },
+  "r_version": "R version 4.6.1 (2026-06-24)",
+  "platform": "aarch64-apple-darwin23",
+  "host": "Mac-Studio.local",
+  "packages": ["1.4.9", "2.0.0"]
+}

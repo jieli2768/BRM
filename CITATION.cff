@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the article."
+title: "Scripts and data for: OptimalCAT: Bayesian adaptive testing with optimal test assembly"
+type: software
+authors:
+  - family-names: Li
+    given-names: Jie
+  - family-names: Patz
+    given-names: Richard J.
+  - family-names: van der Linden
+    given-names: Wim J.
+repository-code: "https://github.com/jieli2768/BRM"
+url: "https://www.optimal-cat.com"
+license: MIT
+keywords:
+  - computerized adaptive testing
+  - shadow-test approach
+  - Bayesian estimation
+  - item response theory
